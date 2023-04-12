@@ -1,0 +1,21 @@
+Create a variable and assign a string value to it.
+Create a variable and assign a number value to it.
+Create a variable and assign a boolean value to it.
+Create a variable and assign an array to it.
+Create a variable and assign an object to it.
+Create a variable and assign a function to it.
+Use conditional statements (if/else) to determine the outcome of a given situation.
+Use a loop (for/while) to iterate over an array and perform a specific action.
+Use an event listener to respond to a user action on a web page.
+Use DOM manipulation to change the content or style of a web page element.
+Use jQuery to manipulate the content or style of a web page element.
+Use AJAX to make an asynchronous request to a server and update the content of a web page.
+Building a simple calculator using JavaScript
+Creating a program that generates a random password
+Implementing a program that checks if a given number is prime or not
+Building a basic web application using JavaScript, HTML, and CSS
+Implementing a program that sorts an array of numbers in ascending or descending order
+Creating a program that finds the largest and smallest numbers in an array
+Building a program that calculates the factorial of a given number
+Implementing a program that calculates the area and perimeter of basic geometric shapes like rectangles, triangles, and circles.
+
